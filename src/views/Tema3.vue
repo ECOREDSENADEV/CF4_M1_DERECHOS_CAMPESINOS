@@ -392,7 +392,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 El agua es uno de los recursos naturales más valiosos y limitados del planeta. Aunque abunda en la Tierra, solo una pequeña fracción es dulce y accesible, y esta se encuentra distribuida de forma desigual. Por eso, su gestión sostenible es esencial para garantizar la seguridad alimentaria, la sostenibilidad ambiental y la continuidad de la producción agropecuaria. En este contexto, el manejo eficiente del agua es una de las principales prioridades dentro de las prácticas agropecuarias sostenibles.
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Por qué es importante el uso eficiente del agua?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Por qué es importante el uso eficiente del agua?
 
     p.mb-5.mt-5 Las prácticas agropecuarias requieren grandes cantidades de agua, tanto para el riego de cultivos como para el consumo animal y el procesamiento de productos. Implementar estrategias que reduzcan el desperdicio y protejan las fuentes hídricas permite:
     
@@ -478,7 +478,7 @@
         .bg-color-15.tarjeta.p-5(data-aos="fade-left")
           p.mb-0 Antes de implementar cualquier estrategia de sostenibilidad, es fundamental comprender qué se entiende por biodiversidad y por qué es esencial conservarla en los sistemas agropecuarios.
           
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Qué es la biodiversidad?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Qué es la biodiversidad?
 
     p.mb-5.mt-5 La biodiversidad abarca toda la variedad de formas de vida presentes en la naturaleza, desde los genes hasta los ecosistemas completos. Su conservación es clave para mantener el equilibrio ecológico y garantizar la sostenibilidad de la producción.
 
@@ -494,7 +494,7 @@
             h2.mb-0 La variabilidad de organismos vivos de cualquier fuente, incluidos, entre otros, los ecosistemas terrestres, marinos y otros ecosistemas acuáticos, y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre especies y de los ecosistemas.
             i.fas.fa-quote-right
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Cuáles son los componentes de la biodiversidad?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Cuáles son los componentes de la biodiversidad?
 
     p.mb-5.mt-5 La biodiversidad se manifiesta en distintos niveles, cada uno fundamental para el funcionamiento de los ecosistemas y la sostenibilidad agropecuaria.
 
@@ -531,7 +531,7 @@
         figure
           img(src='@/assets/curso/tema3/39.png', alt='Texto que describa la imagen')
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Cómo contribuyen las prácticas agropecuarias sostenibles a conservar la biodiversidad?
+    h3.bg-color-21.d-flex.d-lg-inline.p-3.text-white.tarjeta ¿Cómo contribuyen las prácticas agropecuarias sostenibles a conservar la biodiversidad?
 
     p.mb-5.mt-5 Las prácticas sostenibles aplicadas en el campo pueden ayudar a mantener o incluso mejorar la biodiversidad del entorno. A continuación, se presentan las más relevantes.
 
@@ -595,7 +595,7 @@
               h5 Uso de especies nativas
               p Favorece el equilibrio ecológico al evitar el reemplazo de especies locales por exóticas o invasoras.
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Por qué destacar la apicultura dentro de estas prácticas?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Por qué destacar la apicultura dentro de estas prácticas?
 
     p.mb-5.mt-5 La apicultura es una de las actividades agropecuarias más sostenibles, y su importancia va más allá de la producción de miel.
 
@@ -635,15 +635,15 @@
 
     .row.justify-content-center
       .col-lg-3.d-flex
-        .bg-color-28.mb-5.tarjeta.flex-fill.d-flex.align-items-center.justify-content-center
+        .bg-color-28.mb-3.tarjeta.flex-fill.d-flex.align-items-center.justify-content-center
           .px-4.py-4.text-center.text-white
             p.mb-0 La producción animal eficiente.
       .col-lg-3.d-flex
-        .bg-color-28.mb-5.tarjeta.flex-fill.d-flex.align-items-center.justify-content-center
+        .bg-color-28.mb-3.tarjeta.flex-fill.d-flex.align-items-center.justify-content-center
           .px-4.py-4.text-center.text-white
             p.mb-0 El bienestar económico y ético del productor.
       .col-lg-3.d-flex
-        .bg-color-28.mb-5.tarjeta.flex-fill.d-flex.align-items-center.justify-content-center
+        .bg-color-28.mb-3.tarjeta.flex-fill.d-flex.align-items-center.justify-content-center
           .px-4.py-4.text-center.text-white
             p.mb-0 La producción animal eficiente.
     
@@ -911,12 +911,12 @@
     .bg-color-5.tarjeta.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema3/61.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 <b>Importante</b>. El objetivo no es eliminar totalmente las plagas, sino mantenerlas en niveles que no causen daños significativos, sin alterar el equilibrio del ecosistema.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Buenas Prácticas Agrícolas (BPA)
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Buenas Prácticas Agrícolas (BPA)
 
     p.mb-5.mt-5 Las BPA son un conjunto de principios, normas y recomendaciones técnicas aplicadas durante la producción, cosecha y poscosecha de productos agrícolas. Su fin es garantizar:
 
@@ -976,7 +976,7 @@
       .col-lg-10
         p.mb-5 Se recomienda revisar los videos del material complementario para fortalecer estos aprendizajes.
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Diversificación productiva y biodiversidad
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Diversificación productiva y biodiversidad
 
     p.mb-5.mt-5 La diversificación productiva fortalece la resiliencia del agroecosistema y reduce los riesgos de plagas. Se basa en:
 
@@ -1044,7 +1044,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 En la búsqueda de sistemas productivos más sostenibles, la economía circular y el reciclaje emergen como prácticas clave para reducir residuos, aprovechar mejor los recursos disponibles y optimizar la eficiencia en el sector agropecuario. Aunque están estrechamente relacionadas, no significan lo mismo, como se explicará a continuación.
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Qué es la economía circular?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Qué es la economía circular?
 
     .row.mb-5.mt-5
       .col-lg-5.order-lg-2.mb-3.mb-lg-0
@@ -1069,7 +1069,7 @@
                 p.mb-0 Reducir el uso de materias primas y energía.
         p El objetivo es construir un sistema más sostenible, donde los recursos se mantengan en uso el mayor tiempo posible, generando eficiencia, ahorro y menor impacto ambiental.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Aplicaciones de economía circular en el sector agropecuario
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Aplicaciones de economía circular en el sector agropecuario
 
     p.mb-5.mt-5 Este modelo económico se traduce en una serie de acciones concretas dentro del contexto agropecuario, que permiten transformar residuos en recursos valiosos. A continuación, se presentan algunas de las prácticas más relevantes:
 
@@ -1094,7 +1094,7 @@
           div(titulo="Energías renovables").ms-5
             p Uso de tecnologías limpias como paneles solares y biodigestores en el entorno rural.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Beneficios de la economía circular para el productor agropecuario
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Beneficios de la economía circular para el productor agropecuario
 
     p.mb-5.mt-5 Además de proteger el medio ambiente, estas prácticas representan ventajas económicas y sociales para quienes las implementan. Entre los principales beneficios se destacan:
 
@@ -1119,7 +1119,7 @@
                 i.fas.fa-leaf.bg-color-7
                 p.mb-0 Mejor imagen frente a consumidores que valoran la sostenibilidad.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta 3.5.6.4.	¿Qué es el reciclaje?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Qué es el reciclaje?
 
     .row.mb-5.mt-5
       .col-lg-6.order-lg-2.mb-3.mb-lg-0
@@ -1166,7 +1166,7 @@
         .bg-color-6.tarjeta.p-5(data-aos="fade-left")
           p.mb-0 La sostenibilidad agropecuaria no solo se basa en el cuidado ambiental o la eficiencia productiva. También implica un compromiso social, donde el bienestar de las personas, la equidad y el fortalecimiento del tejido comunitario son elementos fundamentales.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Qué significa tener un enfoque social y comunitario?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Qué significa tener un enfoque social y comunitario?
 
     p.mb-5.mt-5 Cuando se afirma que una práctica agropecuaria es sostenible desde el punto de vista social y comunitario, se está reconociendo que las personas y sus comunidades deben estar en el centro de las decisiones y beneficios del sistema productivo. Este enfoque busca integrar justicia social, participación activa y respeto por la diversidad cultural. A continuación, se describen los elementos clave que definen este enfoque:
 
@@ -1209,7 +1209,7 @@
               h5 Identidad y cultura rural
               p Se protege y fortalece la vida campesina, las tradiciones, valores y saberes del campo.
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Por qué es importante este enfoque?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Por qué es importante este enfoque?
 
     p.mb-5.mt-5 Incluir un enfoque social y comunitario en la producción agropecuaria es indispensable para lograr una sostenibilidad real y duradera. Las siguientes razones explican su relevancia:
 
@@ -1237,7 +1237,7 @@
         .bg-color-5.tarjeta.mb-5
           .px-4.px-md-5.py-4
             .row.align-items-center
-              .col-lg-auto
+              .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema3/80.svg", style="max-width: 90px").mx-auto
               .col-lg
                 p.mb-0 Sea buena para el planeta,
@@ -1578,7 +1578,7 @@
     
         .bg-color-1.tarjeta.p-4.mb-3(data-aos="fade-left")
           .row.align-items-start
-            .col-lg-auto
+            .col-lg-auto.mb-3.mb-lg-0
               img(src="@/assets/curso/tema3/100.svg", style="max-width: 90px").mx-auto
             .col-lg
               p.mb-0 La biodiversidad

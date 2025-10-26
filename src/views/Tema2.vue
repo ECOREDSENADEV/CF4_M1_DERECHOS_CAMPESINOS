@@ -40,7 +40,7 @@
           .col-lg-5.mb-3.mb-lg-0.order-lg-2
             figure
               img(src="@/assets/curso/tema2/3.png", data-aos="zoom-in")
-          .col-lg-6.order-lg-1
+          .col-lg-6.mb-3.mb-lg-0.order-lg-1
             AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-4")
               div(titulo="Negativo").ms-5
                 p Efectos que deterioran los ecosistemas y afectan la calidad de vida.
@@ -83,24 +83,24 @@
           .col-lg-4.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema2/4.png", data-aos="zoom-in")
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-25.tarjeta.p-4(data-aos="fade-left").mb-3
               .row.align-items-center
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema2/5.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Construcción de una represa
                   p.mb-0 Inundación de ecosistemas naturales.
             .bg-color-25.tarjeta.p-4(data-aos="fade-left").mb-3
               .row.align-items-center
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema2/6.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Uso excesivo de pesticidas
                   p.mb-0 Contaminación de ríos y afectación de fauna y flora.
             .bg-color-25.tarjeta.p-4(data-aos="fade-left").mb-3
               .row.align-items-center
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema2/7.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Expansión urbana sin planificación
@@ -231,7 +231,7 @@
           h5 Objetivo principal
           p.mb-0 La ley fue creada con el propósito de establecer un marco legal e institucional que garantice la protección del medio ambiente y los recursos naturales, integrando criterios de desarrollo sostenible en todas las actividades económicas del país.
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Cuáles fueron sus principales aportes?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Cuáles fueron sus principales aportes?
 
     p.mb-5.mt-5 La Ley 99 de 1993 introdujo profundas transformaciones en la manera como se gestiona el ambiente en Colombia. A continuación, se destacan sus principales contribuciones institucionales, técnicas y sociales:
 
@@ -281,7 +281,7 @@
               h5 Principio de desarrollo sostenible
               p Introdujo el concepto de que el desarrollo debe garantizar el bienestar presente sin comprometer las necesidades de las generaciones futuras.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Por qué es importante esta ley?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Por qué es importante esta ley?
 
     p.mb-5.mt-5 La Ley 99 de 1993 es fundamental porque marcó un antes y un después en la política ambiental colombiana. Entre sus principales impactos se destacan:
 
@@ -335,7 +335,7 @@
                     :audio="require('../assets/curso/podcast/podcast1.mp3')"
                   ) 
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Quiénes hacen parte del SINA?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Quiénes hacen parte del SINA?
 
     p.mb-5.mt-5 El SINA está compuesto por entidades a nivel nacional, regional y local, además de instituciones de apoyo, investigación, autoridades locales y actores sociales. A continuación, se presenta  su estructura general:
 
@@ -449,7 +449,7 @@
         .bg-color-5.tarjeta.p-5(data-aos="fade-left")
           p.mb-0 El Ministerio de Ambiente y Desarrollo Sostenible es la entidad estatal encargada de liderar la política ambiental en Colombia. Su misión principal es proteger los recursos naturales del país y dirigir el Sistema Nacional Ambiental (SINA). Además, representa a Colombia en tratados y acuerdos ambientales internacionales.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Objetivos principales
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Objetivos principales
 
     p.mt-5 Los siguientes objetivos orientan la labor del Ministerio a nivel nacional:
 
@@ -480,7 +480,7 @@
                     p.mb-0 Garantizar el derecho a un ambiente sano.
         
     
-        h3.bg-color-21.d-inline.p-3.text-white.tarjeta Funciones clave del Ministerio
+        h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Funciones clave del Ministerio
 
         p.mb-5.mt-5 Estas funciones describen cómo el Ministerio asegura una adecuada gestión ambiental en Colombia:
 
@@ -692,7 +692,7 @@
         .bg-color-15.tarjeta.p-5(data-aos="fade-left")
           p.mb-0 Para entender y gestionar adecuadamente los efectos de la actividad agropecuaria sobre el ambiente, es necesario aplicar herramientas que permitan medir, predecir y hacer seguimiento a sus impactos. Estas herramientas combinan aspectos técnicos, normativos y científicos, y permiten conocer el estado de los ecosistemas y el grado de afectación causado por las prácticas productivas.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Qué es una Evaluación de Impacto Ambiental (EIA)?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Qué es una Evaluación de Impacto Ambiental (EIA)?
 
     p.mb-5.mt-5 Antes de ejecutar un proyecto agropecuario de gran escala, es obligatorio realizar una Evaluación de Impacto Ambiental (EIA), especialmente cuando este puede generar afectaciones significativas en el medio ambiente.
 
@@ -722,7 +722,7 @@
                 i.fas.fa-leaf.bg-color-7
                 p.mb-0 Evaluada por la ANLA o por las CAR, según el tipo de proyecto.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Qué es el monitoreo ambiental?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Qué es el monitoreo ambiental?
 
     .row.mb-5.align-items-center.mt-5
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
@@ -731,52 +731,52 @@
       .col-lg-8.order-lg-1
         p Una vez implementado un proyecto agropecuario, es necesario hacer monitoreos ambientales periódicos que permitan verificar los efectos reales de las actividades sobre el entorno. El monitoreo permite evaluar si las medidas de mitigación funcionan, y si se están cumpliendo los estándares ambientales establecidos.
         .row.mb-3
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-25.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema2/51.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Calidad del agua
                   p.mb-0 Estaciones de monitoreo, pruebas de laboratorio
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-25.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema2/52.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Calidad del suelo
                   p.mb-0 Muestreo, análisis físico-químico
         .row.mb-3
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-25.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema2/53.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Emisiones de gases
                   p.mb-0 Sensores, estaciones meteorológicas
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-25.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema2/54.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Biodiversidad y cobertura vegetal
                   p.mb-0 Imágenes satelitales, observación directa
         .row.mb-3
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-25.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema2/55.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Manejo de residuos
                   p.mb-0 Registros internos, inspecciones técnicas
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             img(src="@/assets/curso/tema2/56.svg").mx-auto
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta ¿Qué son los indicadores ambientales?
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta ¿Qué son los indicadores ambientales?
 
     p.mt-5 En una EIA o en procesos de monitoreo ambiental, se utilizan indicadores ambientales: valores medibles que permiten evaluar el estado del ambiente, los efectos de la actividad productiva y la efectividad de las acciones de manejo.
 
@@ -838,7 +838,7 @@
                 td % de residuos adecuadamente dispuestos
                 td Eficiencia del tratamiento de residuos.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Tipos de huellas ecológicas utilizadas
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Tipos de huellas ecológicas utilizadas
 
     p.mb-5.mt-5 Además de los indicadores anteriores, existen metodologías específicas para medir el impacto de manera más integrada:
 
@@ -874,7 +874,7 @@
         figure
           img(src='@/assets/curso/tema2/60.png', alt='Texto que describa la imagen')
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Entidades y actores responsables de la medición ambiental
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Entidades y actores responsables de la medición ambiental
 
     p.mb-5.mt-5 Para que la medición del impacto sea objetiva, confiable y técnicamente válida, participan diferentes instituciones públicas, privadas y académicas, cada una con un rol específico.
 

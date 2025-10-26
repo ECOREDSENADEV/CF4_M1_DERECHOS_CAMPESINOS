@@ -94,10 +94,10 @@
               h5 Importancia social y cultural
               p Este tipo de producción sostiene comunidades rurales enteras, no solo desde lo económico, sino también desde lo cultural y lo simbólico. Permite mantener vivas las tradiciones, costumbres y formas de vida que han perdurado por siglos en distintas regiones del país.
     
-    .bg-color-4.mb-5
+    .bg-color-4.mb-5.tarjeta
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/11.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 La producción agropecuaria tradicional, campesina o familiar es mucho más que una técnica productiva: representa una forma de vida basada en el respeto por la tierra, la memoria colectiva y la sostenibilidad. Recuperar y valorar estos saberes es esencial para enfrentar los retos del presente y del futuro, especialmente en lo que respecta a la crisis ambiental y la justicia social.
@@ -207,7 +207,7 @@
             figure
               img(src='@/assets/curso/tema1/16.png', alt='Texto que describa la imagen')
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Importancia de combinar lo nutricional con lo cultural
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Importancia de combinar lo nutricional con lo cultural
 
     p.mb-5.mt-5 Una alimentación adecuada debe cumplir una doble función:
 
@@ -227,7 +227,7 @@
                 p.mb-0 Respetar y fortalecer la identidad cultural, las prácticas y la dignidad de las personas.
           p.mb-0 Esto es particularmente relevante en programas de ayuda alimentaria, seguridad alimentaria y políticas públicas. En Colombia, por ejemplo, se han presentado numerosas quejas en el Programa de Alimentación Escolar debido a la falta de pertinencia nutricional y cultural de los alimentos suministrados.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Realidad de los alimentos en el contexto campesino colombiano
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Realidad de los alimentos en el contexto campesino colombiano
 
     p.mb-5.mt-5 Aunque Colombia posee condiciones naturales excepcionales para la producción de alimentos —climas variados, sin estaciones, con alta biodiversidad—, los campesinos pueden enfrentar dificultades para acceder a una alimentación adecuada. Estas limitaciones no son por condiciones naturales, sino por otros factores:
 
@@ -280,7 +280,7 @@
     .bg-color-17.tarjeta.mb-5
       .px-4.px-md-5.py-4
         .row.align-items-center
-          .col-lg-auto
+          .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema1/24.svg", style="max-width: 90px").mx-auto
           .col-lg
             p.mb-0 Garantizar una alimentación nutritiva y culturalmente apropiada para las comunidades campesinas en Colombia no solo implica producir alimentos, sino también comprender y respetar sus contextos sociales, culturales y económicos.
@@ -345,7 +345,7 @@
     
     p.mb-5 Solo así será posible construir un sistema alimentario más justo, resiliente y culturalmente arraigado.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Manipulación de alimentos por parte de los campesinos como parte de la seguridad alimentaria.
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Manipulación de alimentos por parte de los campesinos como parte de la seguridad alimentaria.
 
     p.mb-5.mt-5 La manipulación de alimentos realizada por los campesinos es un componente fundamental de la seguridad alimentaria, ya que garantiza que los productos lleguen al consumidor final en condiciones higiénicas, nutritivas y seguras. A diferencia de la visión reducida que asocia este proceso únicamente con la cocina o la venta, en el contexto campesino abarca toda la cadena alimentaria, desde la siembra hasta la comercialización.
 
@@ -524,7 +524,7 @@
             .bg-color-29.tarjeta.mb-5.bord
               .px-4.px-md-5.py-4
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/tema1/41.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     p.mb-0 <b>Ejemplos</b>. Cultivo de palma de aceite, banano, caña de azúcar o producción ganadera a gran escala.
@@ -545,52 +545,52 @@
               img(src="@/assets/curso/tema1/42.png", data-aos="zoom-in")
           .col-lg-8
             .row.mb-3
-              .col-lg-6
+              .col-lg-6.mb-3.mb-lg-0.mb-3.mb-lg-0
                 .bg-color-6.p-3.tarjeta.h-100(data-aos="fade-left")
                   .row.align-items-start
-                    .col-lg-auto
+                    .col-lg-auto.mb-3.mb-lg-0
                       img(src="@/assets/curso/tema1/43.svg", style="max-width: 90px").mx-auto
                     .col-lg
                       h5 Fundamento
                       p.mb-0 Se rige por principios ecológicos y sostenibles
-              .col-lg-6
+              .col-lg-6.mb-3.mb-lg-0.mb-3.mb-lg-0
                 .bg-color-6.p-3.tarjeta.h-100(data-aos="fade-left")
                   .row.align-items-start
-                    .col-lg-auto
+                    .col-lg-auto.mb-3.mb-lg-0
                       img(src="@/assets/curso/tema1/45.svg", style="max-width: 90px").mx-auto
                     .col-lg
                       h5 Uso de insumos
                       p.mb-0 No emplea químicos sintéticos como pesticidas ni fertilizantes artificiales.
             .row.mb-3
-              .col-lg-6
+              .col-lg-6.mb-3.mb-lg-0.mb-3.mb-lg-0
                 .bg-color-6.p-3.tarjeta.h-100(data-aos="fade-left")
                   .row.align-items-start
-                    .col-lg-auto
+                    .col-lg-auto.mb-3.mb-lg-0
                       img(src="@/assets/curso/tema1/47.svg", style="max-width: 90px").mx-auto
                     .col-lg
                       h5 Conservación ambiental
                       p.mb-0 Promueve el cuidado del suelo, el agua y la biodiversidad.
-              .col-lg-6
+              .col-lg-6.mb-3.mb-lg-0.mb-3.mb-lg-0
                 .bg-color-6.p-3.tarjeta.h-100(data-aos="fade-left")
                   .row.align-items-start
-                    .col-lg-auto
+                    .col-lg-auto.mb-3.mb-lg-0
                       img(src="@/assets/curso/tema1/44.svg", style="max-width: 90px").mx-auto
                     .col-lg
                       h5 Escala de producción
                       p.mb-0 Puede darse en pequeña o mediana escala
             .row.mb-3
-              .col-lg-6
+              .col-lg-6.mb-3.mb-lg-0.mb-3.mb-lg-0
                 .bg-color-6.p-3.tarjeta.h-100(data-aos="fade-left")
                   .row.align-items-start
-                    .col-lg-auto
+                    .col-lg-auto.mb-3.mb-lg-0
                       img(src="@/assets/curso/tema1/46.svg", style="max-width: 90px").mx-auto
                     .col-lg
                       h5 Destino de la producción
                       p.mb-0 Puede estar orientada al autoconsumo o a un mercado especializado (productos orgánicos).
-              .col-lg-6
+              .col-lg-6.mb-3.mb-lg-0.mb-3.mb-lg-0
                 .bg-color-6.p-3.tarjeta.h-100(data-aos="fade-left")
                   .row.align-items-start
-                    .col-lg-auto
+                    .col-lg-auto.mb-3.mb-lg-0
                       img(src="@/assets/curso/tema1/49.svg", style="max-width: 90px").mx-auto
                     .col-lg
                       h5 Ejemplos
@@ -609,7 +609,7 @@
         .bg-color-17.tarjeta.p-5(data-aos="fade-left")
           p.mb-0 Son fundamentos que orientan nuestras acciones para proteger el medio ambiente, conservar los recursos naturales y garantizar el bienestar de las generaciones presentes y futuras. Se aplican en diversos ámbitos: agricultura, industria, construcción, educación, consumo, entre otros.
     
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Principios ecológicos
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Principios ecológicos
 
     p.mb-5.mt-5 Estos se basan en el funcionamiento natural de los ecosistemas y buscan mantener su equilibrio. A continuación, se presentan los principales:
 
@@ -619,50 +619,50 @@
           img(src="@/assets/curso/tema1/51.png", data-aos="zoom-in")
       .col-lg-8
         .row.mb-3
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/52.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Interdependencia
                   p.mb-0 Todos los seres vivos están conectados: afectar a uno impacta al sistema entero.
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/54.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Diversidad biológica
                   p.mb-0 Cuanta más biodiversidad, mayor estabilidad del ecosistema.
         .row.mb-3
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/56.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Ciclos naturales cerrados
                   p.mb-0 La naturaleza recicla todo: no genera residuos. Ejemplo: ciclo del agua, del carbono
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/53.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Capacidad de carga
                   p.mb-0 Cada ecosistema tiene un límite de uso sin degradarse.
         .row.mb-3
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/55.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Adaptación y resiliencia
                   p.mb-0 Los ecosistemas sanos se adaptan y recuperan ante cambios.
 
-    h3.bg-color-21.d-inline.p-3.text-white.tarjeta Principios de sostenibilidad (desarrollo sostenible)
+    h3.bg-color-21.d-flex.d-xl-inline.p-3.text-white.tarjeta Principios de sostenibilidad (desarrollo sostenible)
 
     p.mb-5.mt-5 Se enfocan en cómo los seres humanos pueden vivir y desarrollarse sin agotar los recursos del planeta:
 
@@ -734,7 +734,7 @@
         .bg-color-29.tarjeta.mb-5.bord
           .px-4.px-md-5.py-4
             .row.align-items-center
-              .col-lg-auto
+              .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/59.svg", style="max-width: 90px").mx-auto
               .col-lg
                 p.mb-0 <b>Ejemplos</b>. El cultivo de caña de azúcar puede destinarse a la producción de etanol como biocombustible o a la fabricación artesanal de panela.
@@ -854,35 +854,35 @@
           img(src="@/assets/curso/tema1/64.png", data-aos="zoom-in")
       .col-lg-8
         .row.mb-3
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/65.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Convencional
                   p.mb-0 Uso de químicos sintéticos, maquinaria y monocultivos; busca el máximo rendimiento.
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/67.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Orgánica o ecológica
                   p.mb-0 Evita químicos sintéticos y transgénicos; promueve prácticas naturales.
         .row.mb-3
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/68.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Agroecológica
                   p.mb-0 Enfocada en sostenibilidad, diversidad biológica y equidad social.
-          .col-lg-6
+          .col-lg-6.mb-3.mb-lg-0
             .bg-color-23.p-3.tarjeta.h-100(data-aos="fade-left")
               .row.align-items-start
-                .col-lg-auto
+                .col-lg-auto.mb-3.mb-lg-0
                   img(src="@/assets/curso/tema1/66.svg", style="max-width: 90px").mx-auto
                 .col-lg
                   h5 Regenerativa

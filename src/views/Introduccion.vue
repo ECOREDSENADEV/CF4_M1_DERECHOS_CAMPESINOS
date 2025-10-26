@@ -17,7 +17,7 @@
           .col-lg-9.order-lg-1
             .bg-color-15.mb-3(data-aos="fade-up")
               .row.justify-content-center.align-items-center
-                .col-lg-auto.mb-3.mb-lg-0
+                .col-lg-auto.mb-3.mb-lg-0.mb-3.mb-lg-0
                   figure
                     img(src='@/assets/curso/intro/1.png', alt='')
                 .col-lg
@@ -30,7 +30,7 @@
             .bg-color-5.mb-5.tarjeta
               .px-4.px-md-5.py-4
                 .row.align-items-center
-                  .col-lg-auto
+                  .col-lg-auto.mb-3.mb-lg-0
                     img(src="@/assets/curso/intro/3.svg", style="max-width: 90px").mx-auto
                   .col-lg
                     p.mb-0 Asimismo, tanto los beneficios de la actividad agropecuaria sostenible como las alternativas económicas para zonas rurales se convierten en la base para que los estudiantes diseñen propuestas de producción responsable. De esta manera, podrán aplicar los conocimientos adquiridos en el programa y contribuir al desarrollo de sistemas productivos que respeten la vida campesina y el equilibrio ambiental.
